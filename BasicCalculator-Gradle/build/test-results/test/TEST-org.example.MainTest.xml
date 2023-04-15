@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-04-14T23:52:56" hostname="BOBBY-OMEN" time="0.018">
+  <properties/>
+  <testcase name="negativeSumTest()" classname="org.example.MainTest" time="0.012"/>
+  <testcase name="decimalQuotientTest()" classname="org.example.MainTest" time="0.0"/>
+  <testcase name="negativeProductTest()" classname="org.example.MainTest" time="0.001"/>
+  <testcase name="wholeQuotientTest()" classname="org.example.MainTest" time="0.001"/>
+  <testcase name="positiveDifferenceTest()" classname="org.example.MainTest" time="0.001"/>
+  <testcase name="positiveProductTest()" classname="org.example.MainTest" time="0.0"/>
+  <testcase name="positiveSumTest()" classname="org.example.MainTest" time="0.001"/>
+  <testcase name="negativeDifferenceTest()" classname="org.example.MainTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
